@@ -2,6 +2,10 @@
 
 This project provides a MATLAB-based graphical user interface (GUI) for simulating tumor-drug interactions in a 1D spherical tumor model.
 
+## GUI Preview
+
+![Tumor Drug Interaction Simulator GUI](results/github4.png)
+
 ## Features
 - Simulate drug diffusion, cell growth, oxygen consumption, and cellular damage.
 - Adjustable parameters for tumor microenvironment, drug properties, and treatment schedule.
